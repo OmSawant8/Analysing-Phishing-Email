@@ -81,3 +81,5 @@ Suspicious attachments	           ✅/❌
 DKIM/SPF/DMARC failed (from headers)✅/❌
 
 If multiple red flags are present, it is very likely a phishing attempt.
+
+(All provided Screenshots are in the chronological order of process!!)
